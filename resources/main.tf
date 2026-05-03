@@ -77,4 +77,3 @@ tags = {
     Name = var.components[count.index]
   }
 }
-
